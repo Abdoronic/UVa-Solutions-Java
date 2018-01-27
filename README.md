@@ -1,1 +1,1 @@
-Java Solution for some UVa problems
+Java Solutions for some UVa problems
