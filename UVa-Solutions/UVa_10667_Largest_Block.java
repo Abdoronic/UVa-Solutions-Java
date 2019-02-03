@@ -26,7 +26,6 @@ public class UVa_10667_Largest_Block {
 		return c[i2][j2] - c[i1-1][j2] - c[i2][j1 - 1] + c[i1-1][j1-1];
 	}
 	
-	//not accepted
 	public static void main(String[] args) throws Exception {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		PrintWriter pw = new PrintWriter(System.out);
